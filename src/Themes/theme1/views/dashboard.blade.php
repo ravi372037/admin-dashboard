@@ -11,7 +11,7 @@
                 <div class="card-body">
                     <p class="lead mb-3">
                         Please go to the template documentation to use more template components.<br>
-                        <a href="https://getstisla.com/docs" target="_blank">View Otika Template Documentation</a>
+                        <a href="https://www.templateshub.net/template/otika-bootstrap-admin-template" target="_blank">View Otika Template Documentation</a>
                     </p>
                 </div>
             </div>
